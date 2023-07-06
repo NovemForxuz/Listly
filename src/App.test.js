@@ -1,3 +1,7 @@
+/**
+ * This file is not in used at the moment.
+ */
+
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
